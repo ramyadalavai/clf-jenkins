@@ -5,7 +5,7 @@
 			"myS3Bucket": {
 				 "Type" : "AWS::S3::Bucket",
 				 "Properties" : {
-							"BucketName" : "surajusingjenkinks"
+							"BucketName" : "dev-triger-s3-bucket"
 				 }}
 			 
 }
